@@ -1,5 +1,7 @@
 # MTProxy Docker Installation Script
 
+[Версия на русском языке](https://github.com/statix05/MTProxyInstall/edit/main/README-RUS.md)
+
 A simple, reliable, and automated script for installing the Telegram MTProxy server using Docker. This script solves all the complexities of configuring the Telegram proxy server.
 
 ## 📋 Table of Contents
