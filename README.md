@@ -4,7 +4,7 @@ A simple, reliable, and automated script for installing the Telegram MTProxy ser
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
+- [Overview][## 🔍 Overview]
 - [Features](#features)
 - [Requirements](#requirements)
 - [Quick Start](#quick-start)
