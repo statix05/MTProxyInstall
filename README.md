@@ -262,4 +262,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ If this script helped you, please consider giving it a star on GitHub!
-```
+
