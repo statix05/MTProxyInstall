@@ -263,14 +263,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ If this script helped you, please consider giving it a star on GitHub!
 ```
-
-**Don't forget to:**
-1. Replace `YOUR_USERNAME` with your actual GitHub username
-2. Add a LICENSE file (MIT license is recommended)
-3. Create the repository and upload the files:
-   - `install.sh` - The main installation script
-   - `cleanup.sh` - The cleanup script
-   - `README.md` - This documentation
-   - `LICENSE` - License file
-
-This README provides comprehensive documentation that's both user-friendly and professional for your GitHub repository!
