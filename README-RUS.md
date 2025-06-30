@@ -1,6 +1,6 @@
 # Скрипт установки MTProxy через Docker
 
-[English Version](https://github.com/statix05/MTProxyInstall/edit/main/README.md)
+[English Version](../main/README.md)
 
 Тестировалось на серверах [Aeza](https://aeza.net/?ref=584670)
 
